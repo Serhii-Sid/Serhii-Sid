@@ -1,44 +1,41 @@
-# Serhii Sidorskii — Data Analyst
-## Python Data Analyst | Advanced Retail & Financial Insights | Excel to Python Automation
+# Serhii Sidorskii
+### Data Analyst | Excel to Python Automation | Retail & Financial Analytics
 
-Professional Data Analyst specializing in transforming complex, unstructured transactional datasets into clear, actionable business strategies. Grounded in the **Pyramid Principle**, my analytical approach consistently prioritizes high-level commercial outcomes and financial value [1], supported by rigorous mathematical modeling and statistical validation [2, 3].
-
----
-
-## 🛠️ Technical Toolkit (Hard Skills)
-* **Programming Languages & Libraries:** Python (`pandas` for high-performance data wrangling [4, 5], `numpy` [6], `scipy.stats` for statistical hypothesis testing [4, 7]).
-* **Mathematical & Statistical Modeling:** Correlation Analysis (Pearson Coefficient) [3, 8], Distance Proximity (Standardized Magnitude Distance) [3, 8], independent two-sample t-tests, p-value evaluation [2, 3, 9], and Affinity Index calculation (Uplift/Preference modeling) [2, 10].
-* **Database Management:** SQL (complex query design, multi-table JOINs, conditional aggregations, and performance-optimized filtering) [5, 11].
-* **Data Visualization:** `seaborn` and `matplotlib` (advanced distributions, ranked categorical visualizations, multi-trend timelines, and 95% confidence interval corridors) [12-16].
-* **Version Control & Secure Operations:** Git & GitHub (secure SSH protocol authentication [17, 18], cryptographically verified commits [about-commit-signature-verification], and Vigilant Mode enforcement) [about-commit-signature-verification].
+I am a business-oriented Data Analyst focused on turning raw, messy datasets into clear financial and operational insights. My approach is simple: analyze the numbers through a business lens first, prove the patterns mathematically, and deliver recommendations that directly impact the bottom line.
 
 ---
 
-## 📂 Featured Commercial Project
+## 🛠️ Hard Skills
 
-### Retail Strategy & Customer Uplift Analysis — Quantium Virtual Internship
-**Business Goal:** Conduct a comprehensive review of snack category purchasing behavior and statistically evaluate the impact of a newly introduced product display layout on sales performance and customer traffic across pilot stores (Stores 77, 86, and 88) to deliver data-backed rollout recommendations to the Category Manager [3, 19].
+* **Data Wrangling & Analysis:** Python (`pandas`, `numpy`), SQL (complex queries, joins, aggregations)
+* **Statistical Modeling & Testing:** A/B testing, hypothesis testing (`scipy.stats`, t-tests, p-values), correlation analysis (Pearson), and customer profiling (Affinity Indexing)
+* **Data Visualization:** `seaborn`, `matplotlib` (clear distributions, trend lines, and confidence intervals)
+* **Version Control & Operations:** Git, GitHub (secure SSH setup, signed commits, and Vigilant Mode)
 
-#### 📈 Business Value & Key Achievements:
-* **Identification of Category Revenue Engines:** Analyzed over **248,230 retail transactions** [20, 21] to prove that **Mainstream — Young Singles/Couples** and **Budget — Older Families** serve as the principal financial drivers of the category [22, 23].
-* **Statistical Proof of Price Premium:** Executed independent two-sample t-tests verifying a significant "price premium" within the Mainstream segment (t-statistic = 37.8, p-value < 0.05) [24-26], mathematically demonstrating low price sensitivity and willingness to pay premium prices [24, 25].
-* **Precision Target Profiling (Affinity Analysis):** Developed an Affinity Index mapping customer preferences, proving that Mainstream Young Singles/Couples exhibit a **23% higher affinity for premium brands (Tyrrells)** [27, 28] and are **27% more likely to purchase larger formats (270g+)** compared to the rest of the population [28, 29].
-* **Experimentation & Store Matching:** Designed and implemented a twin-store matching algorithm leveraging **Pearson Correlation** [3, 8] and **Standardized Magnitude Distance** [3, 8] across 259 stable stores [30] to establish robust pre-trial baselines [3, 31]. 
-* **Measuring Campaign Impact (T-Test):** Scaled and evaluated pilot store performance against control groups [3, 32]:
-  * **Store 77:** Achieved a **+33.04% sales uplift** and a **+31.21% increase in customer traffic**, mathematically confirmed across multiple months [33].
-  * **Store 88:** Recorded a **+14.65% sales uplift**, driven primarily by a **+7.73% increase in purchase frequency** [34].
-* **Risk Mitigation (Anomaly Diagnosis):** Successfully identified and diagnosed a critical business anomaly in **Store 86** [35, 36], where a +11.86% traffic surge [34] failed to convert into positive revenue growth due to average basket value dilution [35]. Advised management on targeted pricing adjustments prior to rollout [35, 36].
+---
 
-#### 💻 Technical Implementation Details:
-* Cleaned commercial data by removing non-target items (sauces/dips) [20, 37] and extreme wholesale outliers (large-scale commercial agent cards) [38, 39].
-* Developed customized Python functions to iteratively compute combined similarity metrics across a multidimensional store matrix [40, 41].
-* Plotted total sales and customer trends alongside 95% confidence intervals to visually isolate and verify net layout-driven uplift from random market fluctuations [15, 16, 35].
+## 📂 Featured Project
+
+### Retail Strategy & Customer Uplift Analysis (Quantium Virtual Internship)
+An evaluation of snack category sales performance to analyze how a new product display layout affected customer traffic and purchasing behavior.
+
+#### 📈 Business Impact & Key Findings
+* **Identified Category Growth Drivers:** Analyzed **248,230 retail transactions** to pinpoint the target audience—identifying Mainstream Young Singles/Couples and Budget Older Families as the primary category revenue engines.
+* **Quantified Layout Success:** Scaled and compared trial store performance against custom control groups, proving a **+33.04% sales uplift** (with a +31.21% traffic increase) for Store 77, and a **+14.65% sales uplift** (driven by purchase frequency) for Store 88.
+* **Mapped Customer Affinity:** Discovered that Mainstream Young Singles/Couples have a **23% higher affinity for premium brands (Tyrrells)** and are **27% more likely to buy larger pack formats (270g+)** compared to other demographics.
+* **Proven Pricing Premium:** Conducted independent t-tests showing a statistically significant price premium in the Mainstream segment ($p < 0.05$), proving low price sensitivity and strong willingness to pay for premium categories.
+* **Diagnosed Operational Anomalies:** Detected and resolved a critical issue in Store 86, where a +11.86% traffic surge failed to drive revenue growth due to basket value dilution, allowing management to adjust pricing before a wider rollout.
+
+#### 💻 Technical Implementation
+* Cleaned raw transactional datasets by filtering out bulk-purchase wholesale outliers and non-target categories (sauces/dips).
+* Built a twin-store matching algorithm using a combined score of Pearson Correlation and Proximity Distance to select robust control baselines.
+* Developed custom visualization pipelines in Python to chart trends and overlay 95% confidence intervals, separating real layout-driven gains from random market fluctuations.
 
 👉 **[Link to the complete project repository & Python code](https://github.com/Serhii-Sid/Quantium-Retail-Analysis)**
 
 ---
 
-## 📫 Connect with Me:
+## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 * **Upwork:** [upwork.com/freelancers/your-profile](https://upwork.com/freelancers/your-profile)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **Email:** sid67rivne@gmail.com)
