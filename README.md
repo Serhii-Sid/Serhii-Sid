@@ -38,4 +38,4 @@ An evaluation of snack category sales performance to analyze how a new product d
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 * **Upwork:** [upwork.com/freelancers/your-profile](https://upwork.com/freelancers/your-profile)
-* **Email:** sid67rivne@gmail.com)
+* **Email:** sid78rivne@gmail.com)
